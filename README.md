@@ -46,7 +46,14 @@ An AI conversational system for exploring oceanographic ARGO float data.
 - Natural language querying using LLMs + RAG  
 - Vector-based semantic search  
 - Interactive maps and time-series visualizations with Streamlit  
-- Developed as a Smart India Hackathon (SIH) project  
+- Developed as a Smart India Hackathon (SIH) project
+
+📄 Enterprise Document Intelligence 
+- Built AI document processing system using Python, Streamlit, and EasyOCR
+- Implemented document classification for invoices, contracts, forms, and ID documents
+- Extracted entities such as names, invoice numbers, dates, and amounts using regex
+- Designed sensitive data masking for Aadhaar, phone numbers, and emails
+- Built analytics dashboard and CSV export for processed records
 
 📜 Certifications & Achievements  
 - NPTEL – Introduction to Machine Learning  

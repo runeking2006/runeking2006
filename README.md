@@ -34,12 +34,15 @@ Databases & Tools
 
 🔥 Featured Projects  
 
-🏠 Tamil Nadu Property Price Predictor  
-A full-stack machine learning web application that predicts property prices across Tamil Nadu districts.  
-- React frontend with FastAPI backend  
-- ML-based price prediction pipeline  
-- PostgreSQL (Neon Serverless) for storing user data and trends  
-- Fully deployed on Render  
+🏠 Tamil Nadu House Prices – Full-Stack ML Web Application
+A full-stack machine learning platform that predicts residential property prices across Tamil Nadu districts using location and housing attributes.
+
+- Built with React, FastAPI, PostgreSQL (Neon Serverless), and Render
+- Real-time house price prediction using a deployed ML model
+- District and taluk-level housing interest analytics
+- Botpress-powered virtual assistant for user guidance
+- Open-source model and dataset hosted on Hugging Face
+- End-to-end deployment covering frontend, backend, database, and ML serving
 
 🌊 FloatChat – AI-Powered ARGO Data Explorer  
 An AI conversational system for exploring oceanographic ARGO float data.  
@@ -49,7 +52,7 @@ An AI conversational system for exploring oceanographic ARGO float data.
 - Developed as a Smart India Hackathon (SIH) project
 
 📄 Enterprise Document Intelligence
-- Built AI document processing system using Python, Streamlit, and EasyOCR
+An AI document processing system using Python, Streamlit, and EasyOCR
 - Implemented document classification for invoices, contracts, forms, and ID documents
 - Extracted entities such as names, invoice numbers, dates, and amounts using regex
 - Designed sensitive data masking for Aadhaar, phone numbers, and emails

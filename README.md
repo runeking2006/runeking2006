@@ -1,127 +1,227 @@
-# Hi, I'm Gauthaman V! 👋
+# Gauthaman V
 
-### AI & ML Developer | Full-Stack ML Developer | B.E. CSE (AI & ML) Student
+> **Building AI applications from data to deployment.**
 
-🚀 **About Me**
-
-🎓 Pursuing B.E. Computer Science and Engineering (AI & ML) at Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai.
-
-🤖 Passionate about Machine Learning, Generative AI, Natural Language Processing, and building practical AI-driven applications.
-
-🛠️ Experienced in the complete machine learning lifecycle—from data preprocessing and model development to API integration, cloud deployment, and full-stack implementation.
-
-🏆 Recipient of the Innovation Excellence Award 2025 for developing an AI-powered House Price Prediction platform.
-
-💡 Interested in transforming complex datasets into scalable, user-friendly solutions that deliver real-world impact.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=760&lines=AI+%26+Machine+Learning+Developer;Full-Stack+AI+Application+Builder;Python+%7C+FastAPI+%7C+React+%7C+Next.js;LLMs+%7C+RAG+%7C+Generative+AI;Always+Building+Something+New" alt="Typing SVG"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Who I Am
+
+I'm an undergraduate specializing in **Artificial Intelligence & Machine Learning** with a strong interest in building software powered by modern AI.
+
+Rather than working only on models, I enjoy creating complete products—training machine learning models, developing APIs, designing responsive interfaces, deploying cloud applications, and integrating LLMs into real-world workflows.
+
+I like projects where AI isn't just a demo, but a feature people can actually use.
+
+---
+
+## 🎯 Currently Exploring
+
+* Agentic AI
+* LangGraph
+* Advanced RAG pipelines
+* Docker & Containers
+* Cloud-native AI deployment
+* Multi-agent systems
+* Production-ready LLM applications
+
+---
+
+## 🏆 Highlights
+
+* 🥇 **Innovation Excellence Award 2025** for developing an AI-powered House Price Prediction Platform
+* 🤖 Built multiple end-to-end AI applications using Machine Learning and LLMs
+* 🌊 Smart India Hackathon participant
+* 💻 Interested in AI Engineering, Machine Learning, and Full-Stack Development
+
+---
+
+## 🌐 Find Me Online
+
+<p align="center">
+
+<a href="https://gauthaman-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</a>
+
+<a href="https://github.com/runeking2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gauthaman-v-414a9831a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚙️ Tech Arsenal
 
 ### Languages
-- Python
-- JavaScript
-- C
-
-### Web & Backend
-- HTML5
-- CSS3
-- Tailwind CSS
-- React
-- FastAPI (REST APIs)
-
-### Machine Learning & AI
-- Regression & Classification
-- XGBoost
-- NLP (Natural Language Processing)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Transformers
-- Flan-T5
-- Hugging Face Ecosystem
-
-### Data & Visualization
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- Streamlit
-
-### Databases & Tools
-- PostgreSQL
-- MySQL
-- Git
-- GitHub
-- Linux
-- Render
-- Neon Serverless
-
----
-
-## 🔥 Featured Projects
-
-### 🏠 Tamil Nadu House Prices – Full-Stack ML Web Application
-
-A full-stack machine learning platform that predicts residential property prices across Tamil Nadu districts using location and housing attributes.
-
-- Built with React, FastAPI, PostgreSQL (Neon Serverless), and Render
-- Real-time house price prediction using a deployed ML model
-- District and taluk-level housing interest analytics
-- Botpress-powered virtual assistant for user guidance
-- Open-source model and dataset hosted on Hugging Face
-- End-to-end deployment covering frontend, backend, database, and ML serving
-
-### 🌊 FloatChat – AI-Powered ARGO Data Explorer
-
-An AI conversational platform for exploring oceanographic ARGO float data through natural language interactions.
-
-- Natural language querying using LLMs and RAG
-- Vector-based semantic search
-- Interactive maps and time-series visualizations using Streamlit
-- Built as part of the Smart India Hackathon (SIH)
-
-### 📄 Enterprise Document Intelligence
-
-An AI-powered document processing and information extraction system.
-
-- Developed using Python, Streamlit, and EasyOCR
-- Automated document classification for invoices, contracts, forms, and identity documents
-- Extracted entities such as names, invoice numbers, dates, and monetary values
-- Implemented sensitive data masking for Aadhaar numbers, phone numbers, and email addresses
-- Designed analytics dashboard and CSV export functionality for processed records
-
----
-
-## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=runeking2006&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runeking2006&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css"/>
 </p>
 
+### Frontend
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=runeking2006&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
+
+### Backend & APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+</p>
+
+### AI • Machine Learning
+
+* Machine Learning
+* XGBoost
+* Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
+* NLP
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* LangChain
+* Hugging Face
+* Hugging Face Transformers
+* Flan-T5
+* Gemini API
+* Streamlit
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase"/>
+</p>
+
+* Firestore
+* Neon Serverless PostgreSQL
+
+### Cloud • DevOps • Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,gcp,azure,netlify,git,github,linux"/>
+</p>
+
+* Render
+* Zerops
+* Zoho Catalyst
+* Docker Containers
+
+### Design & Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,figma"/>
 </p>
 
 ---
 
-## 📜 Certifications & Achievements
+# 🛠 Selected Projects
 
-- NPTEL – Introduction to Machine Learning
-- 🏆 Innovation Excellence Award 2025 (AICTE–IDEA Lab Initiative)
-- Smart India Hackathon (SIH) Participant
+## 🏠 Tamil Nadu House Prices
+
+A production-ready full-stack machine learning platform that predicts residential property prices across Tamil Nadu.
+
+**Built With**
+
+`React` • `FastAPI` • `PostgreSQL` • `Neon` • `Render` • `Botpress` • `Machine Learning`
+
+### What it does
+
+* Predicts residential property prices
+* District & Taluk analytics
+* AI virtual assistant
+* Open-source model hosted on Hugging Face
+* Fully deployed frontend, backend and database
 
 ---
 
-## 📫 Connect With Me
+## 🌊 FloatChat
 
-- LinkedIn: www.linkedin.com/in/gauthaman-v-414a9831a
-- GitHub: https://github.com/runeking2006
+An AI assistant for exploring ARGO oceanographic datasets using natural language.
+
+**Built With**
+
+`Streamlit` • `Css` • `Rag` • `Chroma` • `Llms` • `Langchain` • `PostgreSQL` • `Xarray` • `NetCDF` • `Plotly` • `Leaflet` • `Hugging Face Flan-T5 Base`
+
+
+**Highlights**
+
+* Retrieval-Augmented Generation
+* Semantic Search
+* Interactive Maps
+* Time-Series Analytics
+* Streamlit Dashboard
 
 ---
 
-### 💭 Personal Motto
+## 📄 Enterprise Document Intelligence
 
-> "Build systems that solve real problems — learning follows naturally."
+A document understanding platform capable of extracting structured information from multiple document types.
+
+**Built With**
+
+`EasyOCR` • `Streamlit` • `RegEx`
+
+**Capabilities**
+
+* OCR
+* Document Classification
+* Entity Extraction
+* Sensitive Data Masking
+* Analytics Dashboard
+* CSV Export
+
+---
+
+## 📚 Learning Journey
+
+I'm continuously improving my understanding of
+
+* Data Structures & Algorithms
+* System Design
+* Backend Engineering
+* Distributed AI Systems
+* Modern Cloud Infrastructure
+* Production ML
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=runeking2006&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📜 Certifications
+
+* NPTEL — Introduction to Machine Learning
+* Innovation Excellence Award 2025
+* Smart India Hackathon Participant
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=runeking2006&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
+# 💭 Philosophy
+
+> *Build useful software. Keep learning. Let curiosity do the rest.*

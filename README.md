@@ -109,13 +109,15 @@ I like projects where AI isn't just a demo, but a feature people can actually us
 ### Cloud • DevOps • Deployment
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,gcp,azure,netlify,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=docker,gcp,azure,vercel,netlify,git,github,linux"/>
 </p>
 
 * Render
 * Zerops
 * Zoho Catalyst
 * Docker Containers
+* Github Actions
+* CI/CD Pipelines
 
 ### Design & Development
 

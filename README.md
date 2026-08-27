@@ -70,7 +70,7 @@ I like projects where AI isn't just a demo, but a feature people can actually us
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind"/>
 </p>
 
 ### Backend & APIs

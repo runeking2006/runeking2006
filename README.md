@@ -206,16 +206,6 @@ I'm continuously improving my understanding of
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=runeking2006&theme=github"/>
-
-</p>
-
----
-
 # 📜 Certifications
 
 * NPTEL — Introduction to Machine Learning

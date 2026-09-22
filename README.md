@@ -137,7 +137,7 @@ A production-ready full-stack machine learning platform that predicts residentia
 
 `React` • `FastAPI` • `PostgreSQL` • `Neon` • `Render` • `Botpress` • `Machine Learning`
 
-### What it does
+**Highlights**
 
 * Predicts residential property prices
 * District & Taluk analytics
@@ -174,7 +174,7 @@ A document understanding platform capable of extracting structured information f
 
 `EasyOCR` • `Streamlit` • `RegEx`
 
-**Capabilities**
+**Highlights**
 
 * OCR
 * Document Classification
@@ -182,6 +182,46 @@ A document understanding platform capable of extracting structured information f
 * Sensitive Data Masking
 * Analytics Dashboard
 * CSV Export
+
+---
+
+## 🚨 CrisisConnect AI
+
+An archived AI-powered emergency reporting prototype designed for crisis reporting, live triage, escalation, and operational analytics.
+
+**Built With**
+
+`React` • `FastAPI` • `Gemini API` • `Firebase Firestore` • `GCP` • `Docker` • `Tailwind CSS` • `GitHub Actions`
+
+**Highlights**
+
+* AI-assisted emergency reporting
+* Crisis triage and escalation workflows
+* Real-time incident management
+* Operational analytics
+* Containerized backend
+* Cloud deployment with CI/CD
+
+---
+
+## 🏛️ Automated Grievance Categorization & Routing System
+
+An AI-powered grievance management system that uses NLP and machine learning to classify multilingual complaints and route them to the appropriate department.
+
+**Built With**
+
+`FastAPI` • `Next.js` • `PostgreSQL` • `Redis` • `NeonDB` • `NLP` • `DistilBERT` • `mBERT` • `MiniLM` • `Google API` • `JWT Authentication`
+
+**Highlights**
+
+* Automated grievance categorization
+* Multilingual complaint processing
+* NLP-based classification
+* Intelligent department routing
+* Semantic text processing with transformer models
+* Secure JWT-based authentication
+* PostgreSQL-backed data management
+* Redis integration for faster processing
 
 ---
 

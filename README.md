@@ -94,13 +94,25 @@ I like projects where AI isn't just a demo, but a feature people can actually us
 <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,astro,tailwind" alt="Frontend"/>
 </p>
 
-### Backend & APIs
+### Backend • APIs
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" alt="Backend & APIs"/>
 </p>
 
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" alt="Databases"/>
+</p>
+
+* Firestore
+* Neon Serverless PostgreSQL
+
 ### AI • Machine Learning
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Cloud & DevOps"/>
+</p>
 
 * Machine Learning
 * XGBoost
@@ -118,14 +130,10 @@ I like projects where AI isn't just a demo, but a feature people can actually us
 * Gemini API
 * Streamlit
 
-### Databases
-
+### Robotics
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=ros,cmake" alt="Robotics"/>
 </p>
-
-* Firestore
-* Neon Serverless PostgreSQL
 
 ### Cloud • DevOps • Deployment
 
@@ -140,12 +148,13 @@ I like projects where AI isn't just a demo, but a feature people can actually us
 * GitHub Actions
 * CI/CD Pipelines
 
-### Design & Development
+### Design • Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,figma" alt="Design & Tools"/>
 </p>
 
+* Canva
 ---
 
 ## 🛠 Selected Projects in Detail

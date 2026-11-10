@@ -263,11 +263,6 @@ I'm continuously improving my understanding of:
 
 <br/><br/>
 
-<!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=runeking2006&bg_color=0d1117&color=4FC3F7&line=38bdf8&point=00e5ff&area=true&area_color=0284c7&hide_border=true&custom_title=Gautham's%20Contribution%20Graph%20🚀" alt="Contribution graph" width="95%"/>
-
-<br/><br/>
-
 <!-- 🏆 Trophies (local animated SVG) -->
 <img src="./trophies.svg?v=1" alt="Trophies" width="95%"/>
 

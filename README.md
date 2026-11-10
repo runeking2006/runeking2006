@@ -29,13 +29,13 @@
 
 ### 🚀 Featured AI & ML Projects
 
-| 🤖 Project | 💻 Tech Stack | 🏆 Highlights |
-|:---|:---:|:---:|
-| [🏠 Tamil Nadu House Prices](https://github.com/runeking2006) | `React` `FastAPI` `PostgreSQL` `ML` | 🥇 Innovation Award 2025 |
-| [🌊 FloatChat](https://github.com/runeking2006) | `Streamlit` `RAG` `Chroma` `LangChain` `Flan-T5` | Oceanographic ARGO AI |
-| [📄 Enterprise Document Intelligence](https://github.com/runeking2006) | `EasyOCR` `Streamlit` `RegEx` | OCR & Entity Extraction |
-| [🚨 CrisisConnect AI](https://github.com/runeking2006) | `React` `FastAPI` `Gemini API` `GCP` `Docker` | Emergency Live Triage |
-| [🏛️ Automated Grievance Routing](https://github.com/runeking2006) | `FastAPI` `Next.js` `DistilBERT` `Redis` | Multilingual NLP Routing |
+| 🤖 Project | 💻 Tech Stack |
+|:---|:---:|
+| [🏠 Tamil Nadu House Prices](https://github.com/runeking2006) | `React` `FastAPI` `PostgreSQL` `ML` |
+| [🌊 FloatChat](https://github.com/runeking2006) | `Streamlit` `RAG` `Chroma` `LangChain` `Flan-T5` |
+| [📄 Enterprise Document Intelligence](https://github.com/runeking2006) | `EasyOCR` `Streamlit` `RegEx` |
+| [🚨 CrisisConnect AI](https://github.com/runeking2006) | `React` `FastAPI` `Gemini API` `GCP` `Docker` |
+| [🏛️ Automated Grievance Routing](https://github.com/runeking2006) | `FastAPI` `Next.js` `DistilBERT` `Redis` |
 
 <br/>
 
